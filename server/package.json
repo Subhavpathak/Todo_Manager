@@ -1,0 +1,20 @@
+{
+  "name": "todo-manager-backend",
+  "version": "1.0.0",
+  "description": "Backend for Todo Manager using Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
