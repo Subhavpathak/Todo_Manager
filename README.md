@@ -87,7 +87,7 @@ todo-manager/
 
 ## 🙌 Author
 
-**Made with ❤️ by [Subhav Kumar](https://github.com/subhav-code)**  
+**Made by [Subhav Kumar](https://github.com/subhav-code)**  
 **Reg. No:** CS23B1071  
 **Institute:** Indian Institute of Information Technology (IIIT)
 ---
